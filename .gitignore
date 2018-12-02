@@ -1,7 +1,7 @@
 .DS_Store
-.ppt
-.pptx
-.doc
-.key
+*.ppt
+*.pptx
+*.doc
+*.key
 
 milife-and-fe-stack_20180726.pdf
